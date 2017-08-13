@@ -1,9 +1,9 @@
 ;;; ui/doom/config.el -*- lexical-binding: t; -*-
 
-(set! :font "Fira Mono" :size 12)
-(set! :big-font "Fira Mono" :size 18)
-(set! :variable-font "Fira Sans" :size 12)
-(set! :unicode-font "DejaVu Sans Mono" :size 12)
+(set! :font "Roboto Mono for Powerline" :size 14)
+(set! :big-font "Roboto Mono for Powerline" :size 18)
+(set! :variable-font "Roboto" :size 12)
+(set! :unicode-font "Roboto Mono for Powerline" :size 12)
 
 ;; <https://github.com/hlissner/emacs-doom-theme>
 (def-package! doom-themes
